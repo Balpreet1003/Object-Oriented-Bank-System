@@ -16,7 +16,6 @@
 ***
 <img src="./doc/imgs/ProjectCover.png" alt="-> project cover, project logo">
 
-*ENJOY READING ^_^*
 
 ## 💡 The Idea.
     Making C++ CLI Application simulate BMS (Bank Management System) with two Applications (Bank Application, ATM Application) with their functionalities. continue reading.
